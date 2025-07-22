@@ -1,0 +1,9 @@
+# Ignore Python virtual environments
+.venv/
+venv/
+
+# Ignore models directory
+models/
+
+# Ignore node_modules in the project directory
+project/node_modules/
