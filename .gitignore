@@ -7,3 +7,7 @@ models/
 
 # Ignore node_modules in the project directory
 project/node_modules/
+
+# ignore this firebaseConfiq file
+ 
+project/src/firebaseConfig.ts
