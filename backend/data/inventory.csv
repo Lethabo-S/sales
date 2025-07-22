@@ -1,0 +1,6 @@
+product_id,stock_level,warehouse_location
+P001,120,Warehouse A
+P002,300,Warehouse A
+P003,150,Warehouse B
+P004,60,Warehouse B
+P005,200,Warehouse C

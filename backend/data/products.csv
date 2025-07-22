@@ -1,0 +1,6 @@
+product_id,product_name,category,supplier_id,price
+P001,Notebook,Stationery,S001,25.5
+P002,Pen,Stationery,S001,3.0
+P003,USB Cable,Electronics,S002,15.75
+P004,Wireless Mouse,Electronics,S002,40.0
+P005,Coffee Mug,Kitchen,S003,12.99

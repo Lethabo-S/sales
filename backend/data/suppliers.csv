@@ -1,0 +1,4 @@
+supplier_id,supplier_name,contact,email
+S001,OfficeSupplies Inc.,+123456789,office@example.com
+S002,TechWarehouse,+987654321,tech@example.com
+S003,HomeEssentials,+192837465,home@example.com
